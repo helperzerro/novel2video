@@ -9,7 +9,7 @@ silicon_flow_free_models = [
     "Qwen/Qwen2-7B-Instruct",
     "Qwen/Qwen2.5-7B-Instruct",
     "THUDM/glm-4-9b-chat",
-    "01-ai/Yi-1.5-9B-Chat-16K",
+    # "01-ai/Yi-1.5-9B-Chat-16K",
     "internlm/internlm2_5-7b-chat",
     #"google/gemma-2-9b-it",
     #"meta-llama/Meta-Llama-3-8B-Instruct",
